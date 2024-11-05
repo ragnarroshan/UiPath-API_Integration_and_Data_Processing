@@ -4,7 +4,7 @@ To create a workflow in UiPath that calls a REST API (e.g., Weather API), proces
 
 ## Equipment Required:
 UiPath Studio<br>
-API Key from a Weather API provider (e.g., OpenWeatherMap)<br>
+API Key from a eather API provider (e.g., OpenWeatherMap)<br>
 Database (e.g., SQL Server, MySQL, SQLite)<br>
 ## Procedure:
 ### Step 1: Install Required Packages
